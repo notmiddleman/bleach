@@ -1,7 +1,7 @@
 html,
 body {
-    background: rgb(10, 62, 194);
-    background: linear-gradient(120deg, rgba(10, 62, 194, 1) 0%, rgba(10, 62, 194, 1) 100%);
+    background: rgb(33, 31, 31);
+    background: linear-gradient(120deg, rgba(33, 31, 31, 1) 0%, rgba(33, 31, 31, 1) 100%);
 }
 
 .seller {
